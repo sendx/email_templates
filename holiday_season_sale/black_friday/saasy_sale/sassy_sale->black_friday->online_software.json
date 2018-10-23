@@ -1,0 +1,2370 @@
+{
+    "title": "Spring Sale (E-Commerce)",
+    "thumbnail": "https://pro-bee-template-catalog-public.s3.amazonaws.com/templates/default/4.jpg",
+    "json_data":
+    {
+        "page":
+        {
+            "title": "",
+            "rows": [
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#333",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "two-columns-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#2161b5",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "15px",
+                        "padding-left": "15px",
+                        "padding-bottom": "15px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "15px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"font-size: 11px; line-height: 13px;\" data-mce-style=\"font-size: 11px; line-height: 13px;\">VIEW ONLINE&nbsp; &nbsp;FORWARD</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#FFFFFF",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "width": "100%"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 137,
+                                "hideContentOnMobile": false,
+                                "class": "center  autowidth "
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/BeeFree/beefree-vajlwfawkdp/editor_images/logo_2.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    }],
+                    "grid-columns": 6
+                },
+                {
+                    "style":
+                    {
+                        "padding-right": "15px",
+                        "padding-left": "15px",
+                        "padding-bottom": "15px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "15px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-social",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px",
+                                "text-align": "center"
+                            },
+                            "iconsList":
+                            {
+                                "icons": [
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Facebook",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/facebook@2x.png",
+                                        "href": "https://www.facebook.com/",
+                                        "alt": "Facebook",
+                                        "prefix": "https://www.facebook.com/"
+                                    },
+                                    "name": "facebook",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Twitter",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/twitter@2x.png",
+                                        "href": "https://twitter.com/",
+                                        "alt": "Twitter",
+                                        "prefix": "https://twitter.com/"
+                                    },
+                                    "name": "twitter",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Google+",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/googleplus@2x.png",
+                                        "href": "https://plus.google.com/",
+                                        "alt": "Google+",
+                                        "prefix": "https://plus.google.com/"
+                                    },
+                                    "name": "google",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Pinterest",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/pinterest@2x.png",
+                                        "href": "https://www.pinterest.com/",
+                                        "alt": "Pinterest",
+                                        "prefix": "https://www.pinterest.com/"
+                                    },
+                                    "name": "pinterest",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Instagram",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/instagram@2x.png",
+                                        "href": "https://instagram.com/",
+                                        "alt": "Instagram",
+                                        "prefix": "https://instagram.com/"
+                                    },
+                                    "name": "instagram",
+                                    "type": "follow"
+                                }]
+                            },
+                            "computedStyle":
+                            {
+                                "padding": "0 5px 5px 0",
+                                "width": 205,
+                                "height": 37,
+                                "hideContentOnMobile": false,
+                                "iconsDefaultWidth": 32
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"font-size: 11px; line-height: 13px;\" data-mce-style=\"font-size: 11px; line-height: 13px;\">ABOUT&nbsp; &nbsp;SERVICES&nbsp; &nbsp;PRICING&nbsp; &nbsp;CONTACT</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#FFFFFF",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    }],
+                    "grid-columns": 6
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "one-column-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#e6e6e6",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "0px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "0px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px",
+                                "width": "100%"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 36,
+                                "hideContentOnMobile": false,
+                                "class": "center  autowidth "
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/BeeFree/beefree-vajlwfawkdp/editor_images/ico_edge_blue.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    }],
+                    "grid-columns": 12
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "one-column-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#e6e6e6",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "30px",
+                        "padding-left": "30px",
+                        "padding-bottom": "30px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "30px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><strong><span style=\"font-size: 42px; line-height: 50px;\" data-mce-style=\"font-size: 42px; line-height: 50px;\">BLACK FRIDAY SALE!</span></strong></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#000000",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "15px",
+                                "padding-right": "15px",
+                                "padding-left": "15px",
+                                "padding-bottom": "15px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><strong><span style=\"font-size: 22px; line-height: 26px;\" data-mce-style=\"font-size: 22px; line-height: 26px;\"><span style=\"color: rgb(33, 97, 181); font-size: 22px; line-height: 26px;\" data-mce-style=\"color: rgb(33, 97, 181); font-size: 22px; line-height: 26px;\">40% OFF</span> YOUR ENTIRE ORDER</span></strong></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#666666",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px",
+                                "width": "100%"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 450,
+                                "hideContentOnMobile": false,
+                                "class": "center fullwidthOnMobile fixedwidth"
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/BeeFree/beefree-vajlwfawkdp/editor_images/img_1_1.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 21px;\" data-mce-style=\"font-size: 12px; line-height: 21px;\">\n<p style=\"font-size: 14px; line-height: 25px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 25px; text-align: center;\"><span style=\"font-size: 14px; line-height: 25px;\" data-mce-style=\"font-size: 14px; line-height: 25px;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#777777",
+                                    "line-height": "180%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-button",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "text-align": "center"
+                            },
+                            "button":
+                            {
+                                "style":
+                                {
+                                    "padding-right": "30px",
+                                    "padding-bottom": "5px",
+                                    "border-radius": "4px",
+                                    "padding-top": "5px",
+                                    "width": "auto",
+                                    "border-right": "0px solid transparent",
+                                    "color": "#000000",
+                                    "padding-left": "30px",
+                                    "line-height": "200%",
+                                    "background-color": "#f8ad00",
+                                    "max-width": "100%",
+                                    "border-top": "0px solid transparent",
+                                    "border-left": "0px solid transparent",
+                                    "font-family": "inherit",
+                                    "border-bottom": "0px solid transparent"
+                                },
+                                "label": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 24px;\">\n<p style=\"font-family: inherit; font-size: 16px; line-height: 32px;\"><span style=\"font-size: 14px; line-height: 28px;\">TRY US OUT</span></p>\n</div>",
+                                "href": ""
+                            },
+                            "computedStyle":
+                            {
+                                "width": 90,
+                                "hideContentOnMobile": false,
+                                "height": 42
+                            }
+                        }
+                    }],
+                    "grid-columns": 12
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "one-column-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#f9f9f9",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "0px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "0px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-divider",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px"
+                            },
+                            "divider":
+                            {
+                                "style":
+                                {
+                                    "width": "100%",
+                                    "height": "30px",
+                                    "border-top": "0px solid transparent"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false,
+                                "align": "center"
+                            }
+                        }
+                    }],
+                    "grid-columns": 12
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#333",
+                        "background-color": "#2161b5",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": false
+                    }
+                },
+                "type": "two-columns-4-8-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#f9f9f9",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "0px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "0px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "width": "100%",
+                                "padding-bottom": "0px",
+                                "padding-left": "0px"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 187,
+                                "hideContentOnMobile": false,
+                                "class": "left fullwidthOnMobile fixedwidth"
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/204236_181111/editor_images/img_1.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    }],
+                    "grid-columns": 4
+                },
+                {
+                    "style":
+                    {
+                        "padding-right": "20px",
+                        "padding-left": "20px",
+                        "padding-bottom": "20px",
+                        "background-color": "#2161b5",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "20px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px;\" data-mce-style=\"font-size: 14px; line-height: 16px;\"><span style=\"font-size: 22px; line-height: 26px;\" data-mce-style=\"font-size: 22px; line-height: 26px;\">Tempore Dolore Set</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#FFFFFF",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 18px;\" data-mce-style=\"font-size: 12px; line-height: 18px;\">\n<p style=\"font-size: 14px; line-height: 21px;\" data-mce-style=\"font-size: 14px; line-height: 21px;\"><span style=\"font-size: 14px; line-height: 21px;\" data-mce-style=\"font-size: 14px; line-height: 21px;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#bed4f2",
+                                    "line-height": "150%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px;\" data-mce-style=\"font-size: 14px; line-height: 16px;\"><span style=\"text-decoration: underline; font-size: 14px; line-height: 16px;\" data-mce-style=\"text-decoration: underline; font-size: 14px; line-height: 16px;\"><span style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">VIEW MORE</span></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#F9F9F9",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    }],
+                    "grid-columns": 8
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "one-column-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#f9f9f9",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "0px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "0px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-divider",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px"
+                            },
+                            "divider":
+                            {
+                                "style":
+                                {
+                                    "width": "100%",
+                                    "height": "20px",
+                                    "border-top": "0px solid transparent"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false,
+                                "align": "center"
+                            }
+                        }
+                    }],
+                    "grid-columns": 12
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#333",
+                        "background-color": "#e6e6e6",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": false
+                    }
+                },
+                "type": "two-columns-8-4-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#f9f9f9",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "20px",
+                        "padding-left": "20px",
+                        "padding-bottom": "20px",
+                        "background-color": "#e6e6e6",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "20px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px;\" data-mce-style=\"font-size: 14px; line-height: 16px;\"><span style=\"font-size: 22px; line-height: 26px;\" data-mce-style=\"font-size: 22px; line-height: 26px;\">Tempore Dolore Set</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#666666",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 18px;\" data-mce-style=\"font-size: 12px; line-height: 18px;\">\n<p style=\"font-size: 14px; line-height: 21px;\" data-mce-style=\"font-size: 14px; line-height: 21px;\"><span style=\"font-size: 14px; line-height: 21px;\" data-mce-style=\"font-size: 14px; line-height: 21px;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#666666",
+                                    "line-height": "150%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px;\" data-mce-style=\"font-size: 14px; line-height: 16px;\"><span style=\"text-decoration: underline; font-size: 14px; line-height: 16px;\" data-mce-style=\"text-decoration: underline; font-size: 14px; line-height: 16px;\"><span style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">VIEW MORE</span></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#2161b5",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    }],
+                    "grid-columns": 8
+                },
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "0px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "0px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "width": "100%",
+                                "padding-bottom": "0px",
+                                "padding-left": "0px"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 187,
+                                "hideContentOnMobile": false,
+                                "class": "right fullwidthOnMobile fixedwidth"
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/204236_181111/editor_images/img_2.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    }],
+                    "grid-columns": 4
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "one-column-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#f9f9f9",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "0px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "0px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-divider",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px"
+                            },
+                            "divider":
+                            {
+                                "style":
+                                {
+                                    "width": "100%",
+                                    "height": "30px",
+                                    "border-top": "0px solid transparent"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false,
+                                "align": "center"
+                            }
+                        }
+                    }],
+                    "grid-columns": 12
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "one-column-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#2161b5",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "30px",
+                        "padding-left": "30px",
+                        "padding-bottom": "30px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "30px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"font-size: 26px; line-height: 31px;\">Find a planthat's right for you.</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#FFFFFF",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"line-height: 16px; font-size: 14px;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#FFFFFF",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    }],
+                    "grid-columns": 12
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "name": "bee-common-widget-bar.row-icon-2",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#2161b5",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "20px",
+                        "background-color": "#FFFFFF",
+                        "border-bottom": "30px solid #2161b5",
+                        "padding-top": "20px",
+                        "border-top": "5px solid #2161b5",
+                        "border-left": "5px solid #2161b5",
+                        "border-right": "5px solid #2161b5"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "width": "100%",
+                                "padding-bottom": "0px",
+                                "padding-left": "0px"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 315,
+                                "hideContentOnMobile": false,
+                                "class": "center  autowidth "
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/204236_181111/editor_images/img_3_1.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 16px; line-height: 19px;\">\n<p style=\"font-size: 16px; line-height: 19px; text-align: center;\"><span style=\"font-size: 18px; line-height: 21px;\"><strong>Product Name</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#555555",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 14px; line-height: 16px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit tempore sette&nbsp;<br /><br />Price:&nbsp;<span style=\"color: rgb(33, 97, 181); font-size: 14px; line-height: 16px;\"><strong>$50.00</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#555555",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-button",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "text-align": "center"
+                            },
+                            "button":
+                            {
+                                "style":
+                                {
+                                    "padding-right": "30px",
+                                    "padding-bottom": "5px",
+                                    "border-radius": "4px",
+                                    "padding-top": "5px",
+                                    "width": "auto",
+                                    "border-right": "0px solid transparent",
+                                    "color": "#000000",
+                                    "padding-left": "30px",
+                                    "line-height": "200%",
+                                    "background-color": "#f8ad00",
+                                    "max-width": "100%",
+                                    "border-top": "0px solid transparent",
+                                    "border-left": "0px solid transparent",
+                                    "font-family": "inherit",
+                                    "border-bottom": "0px solid transparent"
+                                },
+                                "label": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 24px;\">\n<p style=\"font-family: inherit; font-size: 16px; line-height: 32px;\"><strong><span style=\"font-size: 12px; line-height: 24px;\">TRY US OUT</span></strong></p>\n</div>",
+                                "href": ""
+                            },
+                            "computedStyle":
+                            {
+                                "width": 78,
+                                "hideContentOnMobile": false,
+                                "height": 42
+                            }
+                        }
+                    }],
+                    "grid-columns": 6
+                },
+                {
+                    "style":
+                    {
+                        "padding-right": "0px",
+                        "padding-left": "0px",
+                        "padding-bottom": "20px",
+                        "background-color": "#FFFFFF",
+                        "border-bottom": "30px solid #2161b5",
+                        "padding-top": "20px",
+                        "border-top": "5px solid #2161b5",
+                        "border-left": "5px solid #2161b5",
+                        "border-right": "5px solid #2161b5"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "width": "100%",
+                                "padding-bottom": "0px",
+                                "padding-left": "0px"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 315,
+                                "class": "center  autowidth "
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/204236_181111/editor_images/img_4.png",
+                                "href": "",
+                                "alt": "I'm an image",
+                                "dynamicSrc": ""
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 16px; line-height: 19px;\">\n<p style=\"font-size: 16px; line-height: 19px; text-align: center;\"><span style=\"font-size: 18px; line-height: 21px;\"><strong>Product Name</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#555555",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 14px; line-height: 16px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit tempore sette&nbsp;<br /><br />Price:&nbsp;<span style=\"color: rgb(33, 97, 181); font-size: 14px; line-height: 16px;\"><strong>$50.00</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#555555",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-button",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "text-align": "center"
+                            },
+                            "button":
+                            {
+                                "style":
+                                {
+                                    "padding-right": "30px",
+                                    "padding-bottom": "5px",
+                                    "border-radius": "4px",
+                                    "padding-top": "5px",
+                                    "width": "auto",
+                                    "border-right": "0px solid transparent",
+                                    "color": "#000000",
+                                    "padding-left": "30px",
+                                    "line-height": "200%",
+                                    "background-color": "#f8ad00",
+                                    "max-width": "100%",
+                                    "border-top": "0px solid transparent",
+                                    "border-left": "0px solid transparent",
+                                    "font-family": "inherit",
+                                    "border-bottom": "0px solid transparent"
+                                },
+                                "label": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 24px;\">\n<p style=\"font-family: inherit; font-size: 16px; line-height: 32px;\"><strong><span style=\"font-size: 12px; line-height: 24px;\">TRY US OUT</span></strong></p>\n</div>",
+                                "href": ""
+                            },
+                            "computedStyle":
+                            {
+                                "width": 78,
+                                "hideContentOnMobile": false,
+                                "height": 42
+                            }
+                        }
+                    }],
+                    "grid-columns": 6
+                }],
+                "type": "two-columns-empty"
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "three-columns-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#f9f9f9",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "15px",
+                        "padding-left": "15px",
+                        "padding-bottom": "25px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "25px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "width": "100%",
+                                "padding-bottom": "0px",
+                                "padding-left": "0px"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 190,
+                                "hideContentOnMobile": false,
+                                "class": "center  autowidth  fullwidth"
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/204236_181111/editor_images/img_5.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 16px; line-height: 19px;\">\n<p style=\"font-size: 16px; line-height: 19px; text-align: center;\"><span style=\"font-size: 18px; line-height: 21px;\"><strong>Product Name</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#666666",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 14px; line-height: 16px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit tempore sette&nbsp;<br /><br />Price:&nbsp;<span style=\"color: rgb(33, 97, 181); font-size: 14px; line-height: 16px;\"><strong>$50.00</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#555555",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-button",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "text-align": "center"
+                            },
+                            "button":
+                            {
+                                "style":
+                                {
+                                    "padding-right": "30px",
+                                    "padding-bottom": "5px",
+                                    "border-radius": "4px",
+                                    "padding-top": "5px",
+                                    "width": "auto",
+                                    "border-right": "0px solid transparent",
+                                    "color": "#000000",
+                                    "padding-left": "30px",
+                                    "line-height": "200%",
+                                    "background-color": "#f8ad00",
+                                    "max-width": "100%",
+                                    "border-top": "0px solid transparent",
+                                    "border-left": "0px solid transparent",
+                                    "font-family": "inherit",
+                                    "border-bottom": "0px solid transparent"
+                                },
+                                "label": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 24px;\">\n<p style=\"font-family: inherit; font-size: 16px; line-height: 32px;\"><strong><span style=\"font-size: 12px; line-height: 24px;\">BUY NOW</span></strong></p>\n</div>",
+                                "href": ""
+                            },
+                            "computedStyle":
+                            {
+                                "width": 64,
+                                "hideContentOnMobile": false,
+                                "height": 42
+                            }
+                        }
+                    }],
+                    "grid-columns": 4
+                },
+                {
+                    "style":
+                    {
+                        "padding-right": "15px",
+                        "padding-left": "15px",
+                        "padding-bottom": "25px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "25px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "width": "100%",
+                                "padding-bottom": "0px",
+                                "padding-left": "0px"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 190,
+                                "hideContentOnMobile": false,
+                                "class": "center  autowidth  fullwidth"
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/204236_181111/editor_images/img_6.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 16px; line-height: 19px;\">\n<p style=\"font-size: 16px; line-height: 19px; text-align: center;\"><span style=\"font-size: 18px; line-height: 21px;\"><strong>Product Name</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#666666",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 14px; line-height: 16px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit tempore sette&nbsp;<br /><br />Price:&nbsp;<span style=\"color: rgb(33, 97, 181); font-size: 14px; line-height: 16px;\"><strong>$50.00</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#555555",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-button",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "text-align": "center"
+                            },
+                            "button":
+                            {
+                                "style":
+                                {
+                                    "padding-right": "30px",
+                                    "padding-bottom": "5px",
+                                    "border-radius": "4px",
+                                    "padding-top": "5px",
+                                    "width": "auto",
+                                    "border-right": "0px solid transparent",
+                                    "color": "#000000",
+                                    "padding-left": "30px",
+                                    "line-height": "200%",
+                                    "background-color": "#f8ad00",
+                                    "max-width": "100%",
+                                    "border-top": "0px solid transparent",
+                                    "border-left": "0px solid transparent",
+                                    "font-family": "inherit",
+                                    "border-bottom": "0px solid transparent"
+                                },
+                                "label": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 24px;\">\n<p style=\"font-family: inherit; font-size: 16px; line-height: 32px;\"><strong><span style=\"font-size: 12px; line-height: 24px;\">BUY NOW</span></strong></p>\n</div>",
+                                "href": ""
+                            },
+                            "computedStyle":
+                            {
+                                "width": 64,
+                                "hideContentOnMobile": false,
+                                "height": 42
+                            }
+                        }
+                    }],
+                    "grid-columns": 4
+                },
+                {
+                    "style":
+                    {
+                        "padding-right": "15px",
+                        "padding-left": "15px",
+                        "padding-bottom": "25px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "25px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "width": "100%",
+                                "padding-bottom": "0px",
+                                "padding-left": "0px"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 190,
+                                "hideContentOnMobile": false,
+                                "class": "center  autowidth  fullwidth"
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/204236_181111/editor_images/img_7.jpg",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 16px; line-height: 19px;\" data-mce-style=\"font-size: 16px; line-height: 19px;\">\n<p style=\"font-size: 16px; line-height: 19px; text-align: center;\" data-mce-style=\"font-size: 16px; line-height: 19px; text-align: center;\"><span style=\"font-size: 18px; line-height: 21px;\" data-mce-style=\"font-size: 18px; line-height: 21px;\"><strong>Product Name</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#666666",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 14px; line-height: 16px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit tempore sette&nbsp;<br /><br />Price:&nbsp;<span style=\"color: rgb(33, 97, 181); font-size: 14px; line-height: 16px;\"><strong>$50.00</strong></span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#555555",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-button",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "text-align": "center"
+                            },
+                            "button":
+                            {
+                                "style":
+                                {
+                                    "padding-right": "30px",
+                                    "padding-bottom": "5px",
+                                    "border-radius": "4px",
+                                    "padding-top": "5px",
+                                    "width": "auto",
+                                    "border-right": "0px solid transparent",
+                                    "color": "#000000",
+                                    "padding-left": "30px",
+                                    "line-height": "200%",
+                                    "background-color": "#f8ad00",
+                                    "max-width": "100%",
+                                    "border-top": "0px solid transparent",
+                                    "border-left": "0px solid transparent",
+                                    "font-family": "inherit",
+                                    "border-bottom": "0px solid transparent"
+                                },
+                                "label": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 24px;\">\n<p style=\"font-family: inherit; font-size: 16px; line-height: 32px;\"><strong><span style=\"font-size: 12px; line-height: 24px;\">BUY NOW</span></strong></p>\n</div>",
+                                "href": ""
+                            },
+                            "computedStyle":
+                            {
+                                "width": 64,
+                                "hideContentOnMobile": false,
+                                "height": 42
+                            }
+                        }
+                    }],
+                    "grid-columns": 4
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#333",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "two-columns-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#2161b5",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "20px",
+                        "padding-left": "20px",
+                        "padding-bottom": "20px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "20px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-image",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px",
+                                "width": "100%"
+                            },
+                            "computedStyle":
+                            {
+                                "width": 137,
+                                "hideContentOnMobile": false,
+                                "class": "center  autowidth "
+                            },
+                            "image":
+                            {
+                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/BeeFree/beefree-vajlwfawkdp/editor_images/logo_1_1.png",
+                                "href": "",
+                                "alt": "Image"
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">Copyright © 2018 Company Name</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#a5b7d9",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    }],
+                    "grid-columns": 6
+                },
+                {
+                    "style":
+                    {
+                        "padding-right": "20px",
+                        "padding-left": "20px",
+                        "padding-bottom": "20px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "20px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-social",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px",
+                                "text-align": "center"
+                            },
+                            "iconsList":
+                            {
+                                "icons": [
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Facebook",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/facebook@2x.png",
+                                        "href": "https://www.facebook.com/",
+                                        "alt": "Facebook",
+                                        "prefix": "https://www.facebook.com/"
+                                    },
+                                    "name": "facebook",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Twitter",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/twitter@2x.png",
+                                        "href": "https://twitter.com/",
+                                        "alt": "Twitter",
+                                        "prefix": "https://twitter.com/"
+                                    },
+                                    "name": "twitter",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Google+",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/googleplus@2x.png",
+                                        "href": "https://plus.google.com/",
+                                        "alt": "Google+",
+                                        "prefix": "https://plus.google.com/"
+                                    },
+                                    "name": "google",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Pinterest",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/pinterest@2x.png",
+                                        "href": "https://www.pinterest.com/",
+                                        "alt": "Pinterest",
+                                        "prefix": "https://www.pinterest.com/"
+                                    },
+                                    "name": "pinterest",
+                                    "type": "follow"
+                                },
+                                {
+                                    "text": "",
+                                    "image":
+                                    {
+                                        "title": "Instagram",
+                                        "src": "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/instagram@2x.png",
+                                        "href": "https://instagram.com/",
+                                        "alt": "Instagram",
+                                        "prefix": "https://instagram.com/"
+                                    },
+                                    "name": "instagram",
+                                    "type": "follow"
+                                }]
+                            },
+                            "computedStyle":
+                            {
+                                "padding": "0 5px 5px 0",
+                                "width": 205,
+                                "height": 37,
+                                "hideContentOnMobile": false,
+                                "iconsDefaultWidth": 32
+                            }
+                        }
+                    },
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "5px",
+                                "padding-right": "5px",
+                                "padding-left": "5px",
+                                "padding-bottom": "5px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"line-height: 14px; font-size: 12px;\" data-mce-style=\"line-height: 14px; font-size: 12px;\">6281 Liana Extensions, Lemkeport, NY 01688-8754</span></p>\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"line-height: 14px; font-size: 12px;\" data-mce-style=\"line-height: 14px; font-size: 12px;\">www.YourSiteName.com email@sitename.com</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#a5b7d9",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    }],
+                    "grid-columns": 6
+                }],
+                "locked": false
+            },
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "background-color": "transparent",
+                        "background-image": "none",
+                        "background-position": "top left",
+                        "width": "660px",
+                        "background-repeat": "no-repeat"
+                    },
+                    "computedStyle":
+                    {
+                        "rowColStackOnMobile": true
+                    }
+                },
+                "type": "one-column-empty",
+                "container":
+                {
+                    "style":
+                    {
+                        "background-position": "top left",
+                        "background-repeat": "no-repeat",
+                        "background-color": "#1857a8",
+                        "background-image": "none"
+                    }
+                },
+                "columns": [
+                {
+                    "style":
+                    {
+                        "padding-right": "30px",
+                        "padding-left": "30px",
+                        "padding-bottom": "30px",
+                        "background-color": "transparent",
+                        "border-bottom": "0px solid transparent",
+                        "padding-top": "30px",
+                        "border-top": "0px solid transparent",
+                        "border-left": "0px solid transparent",
+                        "border-right": "0px solid transparent"
+                    },
+                    "modules": [
+                    {
+                        "type": "mailup-bee-newsletter-modules-text",
+                        "locked": false,
+                        "descriptor":
+                        {
+                            "style":
+                            {
+                                "padding-top": "10px",
+                                "padding-right": "10px",
+                                "padding-left": "10px",
+                                "padding-bottom": "10px"
+                            },
+                            "text":
+                            {
+                                "html": "<div class=\"txtTinyMce-wrapper\" style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">\n<p style=\"font-size: 14px; line-height: 16px; text-align: center;\" data-mce-style=\"font-size: 14px; line-height: 16px; text-align: center;\"><span style=\"font-size: 12px; line-height: 14px;\" data-mce-style=\"font-size: 12px; line-height: 14px;\">Should you wish to cancel your subscription, please click here to unsubscribe.</span></p>\n</div>",
+                                "style":
+                                {
+                                    "color": "#a5b7d9",
+                                    "line-height": "120%",
+                                    "font-family": "inherit"
+                                },
+                                "computedStyle":
+                                {
+                                    "linkColor": "#2161b5"
+                                }
+                            },
+                            "computedStyle":
+                            {
+                                "hideContentOnMobile": false
+                            }
+                        }
+                    }],
+                    "grid-columns": 12
+                }],
+                "locked": false
+            }],
+            "description": "Test template for BEE",
+            "template":
+            {
+                "version": "2.0.0",
+                "type": "basic",
+                "name": "template-base"
+            },
+            "body":
+            {
+                "content":
+                {
+                    "style":
+                    {
+                        "color": "#000000",
+                        "font-family": "Arial, 'Helvetica Neue', Helvetica, sans-serif"
+                    },
+                    "computedStyle":
+                    {
+                        "messageWidth": "660px",
+                        "messageBackgroundColor": "transparent",
+                        "linkColor": "#2161b5"
+                    }
+                },
+                "webFonts": [],
+                "container":
+                {
+                    "style":
+                    {
+                        "background-color": "#f9f9f9"
+                    }
+                },
+                "type": "mailup-bee-page-properties"
+            }
+        }
+    }
+},
