@@ -1,6 +1,6 @@
 {
-    "title": "Spring Sale (E-Commerce)",
-    "thumbnail": "https://pro-bee-template-catalog-public.s3.amazonaws.com/templates/default/4.jpg",
+    "title": "Flash",
+    "thumbnail": "https://s3.amazonaws.com/sendx-cdn/templates/flash_low.jpg",
     "json_data":
     {
         "page":
@@ -93,13 +93,13 @@
                     }],
                     "style":
                     {
-                        "padding-bottom": "5px",
+                        "padding-bottom": "0px",
                         "border-left": "0px solid transparent",
                         "border-bottom": "0px solid transparent",
                         "border-top": "0px solid transparent",
                         "padding-right": "0px",
                         "border-right": "0px solid transparent",
-                        "padding-top": "5px",
+                        "padding-top": "0px",
                         "background-color": "transparent",
                         "padding-left": "0px"
                     }
@@ -141,24 +141,23 @@
                     {
                         "descriptor":
                         {
-                            "image":
-                            {
-                                "src": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/840f4477-2071-4b5b-a7c9-79cd553fea12/rv0f8UJQncomg3RRapot2W/menu.png",
-                                "alt": "Image",
-                                "href": ""
-                            },
                             "style":
                             {
-                                "width": "100%"
+                                "padding-top": "0px",
+                                "padding-right": "0px",
+                                "padding-left": "0px",
+                                "padding-bottom": "0px"
+                            },
+                            "html":
+                            {
+                                "html": "<div class=\"our-class\">\n<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr>\n    \n    <td height=\"63px\" bgcolor=\"#6b992a\" style=\"text-align:center;vertical-align: middle;border-radius: 29px 0px 0px 0px;\"><div style=\" color:white; font-family:Verdana, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;\">PRODUCTS</div></td>\n    <td height=\"63px\" bgcolor=\"#e4c506\" style=\"text-align:center;vertical-align: middle;\"><div style=\"color:white; font-family:Verdana, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;\">BRANDS</div></td>\n    <td height=\"63px\" bgcolor=\"#03aae5\" style=\"text-align:center;vertical-align: middle;\"><div style=\"color:white; font-family:Verdana, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;\">DEALS</div></td>\n    <td height=\"63px\" bgcolor=\"#f56300\" style=\"text-align:center;vertical-align: middle;\"><div style=\" color:white; font-family:Verdana, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;\">SERVICES</div></td>\n    <td height=\"63px\" bgcolor=\"#cd008a\" style=\"text-align:center;vertical-align: middle;border-radius: 0px 29px 0px 0px;\"><div style=\"color:white; font-family:Verdana, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;\">CONTACT US</div></td>\n   \n  </tr>\n</table>\n\n\n</div>"
                             },
                             "computedStyle":
                             {
-                                "width": 660,
-                                "class": "center  autowidth  fullwidth",
                                 "hideContentOnMobile": false
                             }
                         },
-                        "type": "mailup-bee-newsletter-modules-image",
+                        "type": "mailup-bee-newsletter-modules-html",
                         "locked": false
                     }],
                     "style":
@@ -169,7 +168,7 @@
                         "border-top": "0px solid transparent",
                         "padding-right": "0px",
                         "border-right": "0px solid transparent",
-                        "padding-top": "5px",
+                        "padding-top": "0px",
                         "background-color": "transparent",
                         "padding-left": "0px"
                     }
@@ -352,7 +351,7 @@
                         "border-top": "0px solid transparent",
                         "padding-right": "0px",
                         "border-right": "0px solid transparent",
-                        "padding-top": "5px",
+                        "padding-top": "15px",
                         "background-color": "transparent",
                         "padding-left": "0px"
                     }
